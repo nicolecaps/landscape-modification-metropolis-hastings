@@ -3,3 +3,7 @@ In this capstone project, I implemented the Metropolis-Hastings algorithm for th
 
 # Acknowledgements
 The code for my implementation, in particular the functions to generate random lattice configurations and calculate the configuration energy for the Ising model, is modified from work by Tanya Schlusser on GitHub. The reference code can be referred to here: https://tanyaschlusser.github.io/posts/mcmcand-the-ising-model/.
+![66origvsadaptive](https://github.com/nicolecaps/capstone/assets/111272955/7fe213b9-b8bf-4069-90c0-294ec0660480)
+![66origvsquadtypes](https://github.com/nicolecaps/capstone/assets/111272955/c72e1d0b-efc9-47f1-8561-c2db3414e95a)
+![pottsexample475 ](https://github.com/nicolecaps/capstone/assets/111272955/6216ddba-8f02-4b8b-a01b-d0bd0178bc33)
+![pottsAP-seed475](https://github.com/nicolecaps/capstone/assets/111272955/bc5d4be7-a4ac-4f89-ad92-5fe91eea3e37)
