@@ -13,7 +13,7 @@ The code for my implementation, in particular the functions to generate random l
 ![66origvsadaptive](https://github.com/nicolecaps/capstone/assets/111272955/7fe213b9-b8bf-4069-90c0-294ec0660480)
 
 ### 3-state Potts model Example 1 (Original MH stuck in local minima, variants able to escape local minima)
-![pottsexample475 ](https://github.com/nicolecaps/capstone/assets/111272955/6216ddba-8f02-4b8b-a01b-d0bd0178bc33)
+![pottsAP-seed475](https://github.com/nicolecaps/capstone/assets/111272955/bc5d4be7-a4ac-4f89-ad92-5fe91eea3e37)
 
 ### 3-state Potts model Example 2 (variants escaping local minima and reaching different global minima)
-![pottsAP-seed475](https://github.com/nicolecaps/capstone/assets/111272955/bc5d4be7-a4ac-4f89-ad92-5fe91eea3e37)
+![pottsexample475 ](https://github.com/nicolecaps/capstone/assets/111272955/6216ddba-8f02-4b8b-a01b-d0bd0178bc33)
